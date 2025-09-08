@@ -19,7 +19,7 @@ const ContactInfo1 = () => {
                                 </div>
                                 <div className="heading">
                                     <h5>Contact Us</h5>
-                                    <a href="tel:(124)555-6565" className="text">(124) 555-6565</a>
+                                    <a href="+91 9792979142" className="text">+91 9792979142</a>
                                 </div>
                             </div>
 
@@ -29,7 +29,7 @@ const ContactInfo1 = () => {
                                 </div>
                                 <div className="heading">
                                     <h5>Send Us a Mail</h5>
-                                    <a href="mailto:admin@techxen.org " className="text">admin@techxen.org </a>
+                                    <a href="mailto:admin@techxen.org " className="text">Qmindxs@gmail.com </a>
                                 </div>
                             </div>
 
@@ -39,7 +39,7 @@ const ContactInfo1 = () => {
                                 </div>
                                 <div className="heading">
                                     <h5>Office Location</h5>
-                                    <a href="tel:(124)555-6565" className="text">73 Bridge St Brooklyn Arakansas <br/> 85032 United States, NY 10018</a>
+                                    <a href="tel:(124)555-6565" className="text">India</a>
                                 </div>
                             </div>
 
