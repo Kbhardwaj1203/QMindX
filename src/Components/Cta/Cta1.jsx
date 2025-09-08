@@ -7,7 +7,7 @@ const Cta1 = () => {
             <div className="row align-items-center">
               <div className="col-lg-7">
                 <div className="heading1-w">
-                  <h2 className="title tg-element-title">At TechXen IT Solutions, We are Committed To Businesses</h2>
+                  <h2 className="title tg-element-title">At QMindX IT Solutions, We are Committed To Businesses</h2>
                   <div className="space16"></div>
                   <p data-aos="fade-right" data-aos-duration="700" >Take the first step towards achieving your business goals by contacting us today. Schedule a consultation with one of our IT specialists to discuss your objectives and explore how our innovative solutions can propel.</p>
                 </div>
