@@ -1,0 +1,312 @@
+[
+  {
+    "icon": "GiBrain",
+    "title": "Artificial Intelligence & Machine Learning",
+    "desc": "Predictive Analytics, NLP, Computer Vision, AI Chatbots, Recommendation Engines, Fraud Detection & Monitoring.",
+    "btnLink": "/service/ai-ml",
+    "overview": "QMindX builds end-to-end AI/ML solutions including data pipelines, model training, and production deployment.",
+    "whatYouGet": [
+      "Use-case discovery and ROI mapping",
+      "Data engineering and feature stores",
+      "Model development (NLP, CV, Tabular)",
+      "MLOps: CI/CD, monitoring, drift detection"
+    ],
+    "delivery": [
+      "Discovery and data audit",
+      "Prototyping and validation",
+      "Productionization and observability",
+      "Continuous improvement"
+    ],
+    "capabilities": [
+      "Transformers, XGBoost, Time-series",
+      "LangChain, Vector DBs",
+      "TensorFlow, PyTorch",
+      "AWS/GCP/Azure MLOps"
+    ],
+    "heroImage": "/assets/img/service/ai.webp",
+    "gallery": [
+      "/assets/img/service/service7-img1.png",
+      "/assets/img/service/service7-img2.png",
+      "/assets/img/service/service7-img3.png"
+    ]
+  },
+  {
+    "icon": "AiOutlineRobot",
+    "title": "Generative AI & LLM Solutions",
+    "desc": "Custom GPT-powered agents, Document Q&A, AI content generation, Knowledge Management, Voice Assistants.",
+    "btnLink": "/service/generative-ai",
+    "overview": "QMindX delivers secure, production-grade GenAI apps: RAG, chatbots, copilots, and content automation.",
+    "whatYouGet": [
+      "RAG over enterprise data",
+      "Domain-tuned prompts and guardrails",
+      "Agent workflows and tool use",
+      "Observability, evals, safety"
+    ],
+    "delivery": [
+      "Data ingestion and chunking",
+      "Embedding and indexing",
+      "Prompt and tool design",
+      "Deployment and monitoring"
+    ],
+    "capabilities": [
+      "OpenAI, Claude, Llama, Phi",
+      "LangChain, LlamaIndex",
+      "Pinecone, Weaviate, FAISS",
+      "Bedrock, Vertex AI"
+    ],
+    "heroImage": "/assets/img/service/genai.png",
+    "gallery": [
+      "/assets/img/service/service-details-image.png",
+      "/assets/img/service/service-details-img.png",
+      "/assets/img/service/service3-img.png"
+    ]
+  },
+  {
+    "icon": "FaIndustry",
+    "title": "Industry-Specific AI",
+    "desc": "AI-driven solutions for Healthcare, Retail, Manufacturing, Education, Agriculture, and Smart Cities.",
+    "btnLink": "/service/industry-ai",
+    "overview": "Verticalized AI solutions by QMindX with compliance and domain best practices.",
+    "whatYouGet": [
+      "Prebuilt modules for key industries",
+      "Compliance-ready workflows",
+      "Custom dashboards and alerts",
+      "Integration with existing systems"
+    ],
+    "delivery": [
+      "Domain requirement mapping",
+      "Prototype and stakeholder feedback",
+      "Integration and rollout",
+      "Training and handover"
+    ],
+    "capabilities": [
+      "Healthcare NLP, Retail forecasting",
+      "Manufacturing vision and QA",
+      "Smart city analytics",
+      "Edge AI"
+    ],
+    "heroImage": "/assets/img/service/ai.webp",
+    "gallery": [
+      "/assets/img/others/industris-img2.png",
+      "/assets/img/others/industris-img3.png",
+      "/assets/img/others/industris-img4.png"
+    ]
+  },
+  {
+    "icon": "FaChartLine",
+    "title": "FinTech, Trading & Blockchain",
+    "desc": "Algo trading, Indian & Global market integrations, Crypto exchanges, Smart Contracts, NFTs, Payment Gateways.",
+    "btnLink": "/service/fintech-blockchain",
+    "overview": "QMindX builds compliant, low-latency fintech systems and blockchain apps.",
+    "whatYouGet": [
+      "Broker/exchange integrations",
+      "Backtesting and risk controls",
+      "Smart contracts and audits",
+      "Payment rails and KYC/AML"
+    ],
+    "delivery": [
+      "Strategy and regulatory review",
+      "MVP and sandbox testing",
+      "Security hardening",
+      "Production rollout"
+    ],
+    "capabilities": [
+      "FIX/REST APIs",
+      "Solidity, Rust",
+      "Kafka, Flink",
+      "SOC2-ready architectures"
+    ],
+    "heroImage": "/assets/img/service/tradingandblockchain.jpg",
+    "gallery": [
+      "/assets/img/work/project6-img2.png",
+      "/assets/img/work/work3-img.png",
+      "/assets/img/work/project-img2.png"
+    ]
+  },
+  {
+    "icon": "FaLaptopCode",
+    "title": "Web & Mobile App Development",
+    "desc": "Full-Stack Web (MERN, Django), Mobile Apps (Flutter, React Native), Cloud-Native Platforms, API Integrations.",
+    "btnLink": "/service/web-mobile",
+    "overview": "QMindX builds scalable web and mobile platforms with modern stacks.",
+    "whatYouGet": [
+      "UX/UI, design systems",
+      "API-first architecture",
+      "CI/CD and testing",
+      "Cloud infra and monitoring"
+    ],
+    "delivery": [
+      "Discovery and design",
+      "Incremental sprints",
+      "UAT and hardening",
+      "Go-live and SRE"
+    ],
+    "capabilities": [
+      "React, Next.js, Node.js",
+      "Django, FastAPI",
+      "Flutter, React Native",
+      "Postgres, Redis, Docker"
+    ],
+    "heroImage": "/assets/img/service/dev.png",
+    "gallery": [
+      "/assets/img/work/work-img2.png",
+      "/assets/img/work/work-img3.png",
+      "/assets/img/work/work2-img1.png"
+    ]
+  },
+  {
+    "icon": "FaCogs",
+    "title": "Enterprise Solutions",
+    "desc": "ERP & CRM platforms, HR Tech, Supply Chain Optimization, OCR, Workflow Automation & RPA.",
+    "btnLink": "/service/enterprise",
+    "overview": "QMindX modernizes enterprise workflows with modular platforms and automation.",
+    "whatYouGet": [
+      "Process discovery",
+      "Workflow automation and RPA",
+      "Role-based access and audit",
+      "Analytics and reporting"
+    ],
+    "delivery": [
+      "As-is/to-be blueprints",
+      "Pilot and change management",
+      "Data migration",
+      "Training and support"
+    ],
+    "capabilities": [
+      "Camunda, Airflow",
+      "OCR/Doc AI",
+      "SAP/Oracle integrations",
+      "SSO/IAM"
+    ],
+    "heroImage": "/assets/img/service/erpcrm.webp",
+    "gallery": [
+      "/assets/img/others/solution-img2.png",
+      "/assets/img/others/solution-img3.png",
+      "/assets/img/work/work2-img2.png"
+    ]
+  },
+  {
+    "icon": "FaShieldAlt",
+    "title": "Cybersecurity & Compliance",
+    "desc": "AI-based Threat Detection, IAM, Blockchain-secured Data, GDPR/HIPAA/RBI/SEBI Compliance Automation.",
+    "btnLink": "/service/cybersecurity",
+    "overview": "QMindX provides proactive security engineering and compliance automation.",
+    "whatYouGet": [
+      "Threat modeling and red teaming",
+      "SIEM/SOAR and anomaly detection",
+      "Policy automation",
+      "Compliance dashboards"
+    ],
+    "delivery": [
+      "Security assessment",
+      "Control implementation",
+      "Monitoring and response",
+      "Audit support"
+    ],
+    "capabilities": [
+      "Zero Trust, IAM",
+      "KMS, HSM",
+      "GDPR/HIPAA/RBI/SEBI",
+      "Audit trails"
+    ],
+    "heroImage": "/assets/img/service/cyber.png",
+    "gallery": [
+      "/assets/img/work/work7-image.png",
+      "/assets/img/others/solution-img2.png",
+      "/assets/img/work/work2-img3.png"
+    ]
+  },
+  {
+    "icon": "MdOutlineAnalytics",
+    "title": "Data Science & Analytics",
+    "desc": "Business Intelligence Dashboards, Big Data & ETL, Real-Time Streaming Analytics, KPI & Risk Heatmaps.",
+    "btnLink": "/service/data-analytics",
+    "overview": "QMindX enables data-driven decisions with BI, realtime, and batch analytics.",
+    "whatYouGet": [
+      "Data modeling and marts",
+      "ETL/ELT pipelines",
+      "Realtime dashboards",
+      "Self-serve analytics"
+    ],
+    "delivery": [
+      "Data discovery",
+      "Pipeline implementation",
+      "Visualization and governance",
+      "Enablement"
+    ],
+    "capabilities": [
+      "dbt, Airflow",
+      "Kafka, Spark",
+      "Tableau, Power BI",
+      "Great Expectations"
+    ],
+    "heroImage": "/assets/img/service/datascience.webp",
+    "gallery": [
+      "/assets/img/work/project-img2.png",
+      "/assets/img/work/project-img3.png",
+      "/assets/img/work/work2-img4.png"
+    ]
+  },
+  {
+    "icon": "SiTensorflow",
+    "title": "AI Agents Development",
+    "desc": "Custom AI Agents using LangChain, Rasa, AutoGPT, Hugging Face. Conversational, Trading, Healthcare & Research agents.",
+    "btnLink": "/service/ai-agents",
+    "overview": "QMindX builds autonomous and semi-autonomous agents with safe tool use.",
+    "whatYouGet": [
+      "Goal-oriented planning",
+      "Tool integrations and memory",
+      "Multi-agent orchestration",
+      "Evaluation and safety"
+    ],
+    "delivery": [
+      "Task and tool graph design",
+      "Agent implementation",
+      "Simulation and evals",
+      "Deployment"
+    ],
+    "capabilities": [
+      "LangChain, CrewAI",
+      "Rasa, HF Transformers",
+      "Redis/pgvector memory",
+      "Tracing and guardrails"
+    ],
+    "heroImage": "/assets/img/service/aiagents.jpg",
+    "gallery": [
+      "/assets/img/work/work9-img2.png",
+      "/assets/img/work/work9-img3.png",
+      "/assets/img/work/work2-img5.png"
+    ]
+  },
+  {
+    "icon": "FaUsers",
+    "title": "Staffing Services",
+    "desc": "IT Staffing, Contract Hiring, Dedicated Teams, Talent Augmentation.",
+    "btnLink": "/service/staffing-services",
+    "overview": "QMindX provides flexible staffing solutions for tech projects.",
+    "whatYouGet": [
+      "Pre-vetted tech talent",
+      "Flexible engagement models",
+      "Rapid onboarding",
+      "Project-based or long-term"
+    ],
+    "delivery": [
+      "Requirement analysis",
+      "Talent sourcing",
+      "Onboarding and management",
+      "Performance tracking"
+    ],
+    "capabilities": [
+      "Full-stack developers",
+      "Cloud engineers",
+      "QA & DevOps",
+      "Project managers"
+    ],
+    "heroImage": "/assets/img/service/staffing.webp",
+    "gallery": [
+      "/assets/img/service/staffing-img1.png",
+      "/assets/img/service/staffing-img2.png",
+      "/assets/img/service/staffing-img3.png"
+    ]
+  }
+]
